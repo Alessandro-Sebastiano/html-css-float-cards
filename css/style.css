@@ -20,6 +20,9 @@ body {
 }
 
 
+/*font-style*/
+
+
 h1 {
     color: #e53170;
     font-weight: 800;
@@ -37,6 +40,8 @@ a {
 }
 
 
+
+
 .container {
     width: 70%;
     text-align: center;
@@ -45,7 +50,7 @@ a {
 }
 
 
-
+/*section-paragraph*/
 .section {
     margin-top: 40px;
     padding: 0 30px;
@@ -53,6 +58,7 @@ a {
 
 
 
+/*card-container*/
 .card-box {
     margin-top: 25px;
     padding: 20px 0;
@@ -60,6 +66,7 @@ a {
 }
 
 
+/*card*/
 
 .card {
     width: calc((100% - 180px) / 3);
